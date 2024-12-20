@@ -1,5 +1,3 @@
-// JavaScript kodini yuklashni kuting
-
     // 1 dan 6 gacha bo‘lgan tasodifiy raqamlarni yaratamiz
     var randomNumber1 = Math.floor(Math.random() * 6) + 1; // Player 1 uchun
     var randomNumber2 = Math.floor(Math.random() * 6) + 1; // Player 2 uchun
